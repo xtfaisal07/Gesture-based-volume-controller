@@ -1,6 +1,6 @@
 # 🎵 Advanced Gesture-Based Volume Controller for Mac
 
-An advanced Python project that enables controlling your Mac's system volume using hand gestures detected through your webcam. This implementation features real-time hand tracking, multiple gesture recognition, performance optimizations, and a user-friendly configuration interface.
+An advanced Python project that enables controlling your system volume using hand gestures detected through your webcam. This implementation features real-time hand tracking, multiple gesture recognition, performance optimizations, and a user-friendly configuration interface.
 
 ![System Architecture](system-architecture.png)
 
